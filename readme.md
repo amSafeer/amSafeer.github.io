@@ -1,5 +1,5 @@
 # Facebook login page clone
-## A little project my Safeer
+## A little project by Safeer
 
 
 This clone is a replica of the Facebook login page. It includes: 
