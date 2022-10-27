@@ -193,6 +193,21 @@ footer span {
     left: 18.5rem;
 }
 
+/* Watermark */
+.watermark a i {
+    font-size: 2rem;
+    color: white;
+    padding: 0.7rem;
+    position: fixed;
+    top: 25rem;
+    transition: 0.1s ease-in-out;
+    z-index: 999;
+    border-radius: 10px;
+    background-color: black;
+}
 
+.watermark a i:hover {
+    color: #308CF7;
+}
 
 
