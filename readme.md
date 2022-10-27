@@ -23,7 +23,7 @@ You need  [Git](https://git-scm.com/) to clone this repositary.
 
 
 ```sh
-git clone https://github.com/amSafeer/facebook-login-page.git
+git clone https://github.com/safeer98/facebook-login
 ```
 ## Copyright
 Safeer owns this. Please credit me 🥺
